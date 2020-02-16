@@ -17,7 +17,7 @@ var configFile = argv.config || 'config';
 var config = require(path.join(__dirname, configFile));
 
 //express app
-const port = 1336;
+const port = 3000;
 const hostname = 'localhost';
 
 app.use(express.static(__dirname));
