@@ -18,7 +18,7 @@ var config = require(path.join(__dirname, configFile));
 
 //express app
 const port = 1336;
-const hostname = 'localhost';
+const hostname = 'https://treehacks.netlify.com/';
 
 app.use(express.static(__dirname));
 
