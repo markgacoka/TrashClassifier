@@ -27,10 +27,6 @@ app.get('/', function(req, res) {
     res.sendFile(path.join(__dirname + '/index.html'));
 });
 
-app.post('/textSearchProxy', (res, req) => {
-  const newValue = Houndify.HoundifyExpress.createTextProxyHandler()
-  res.body = bodyParser.text({ limit: '1mb' })
-  req.json(newValue);
-});
+app.post('/textSearchProxy', bodyParser.text({ limit: '1mb' }), Houndify.HoundifyExpress.createTextProxyHandler());
 
 module.exports.handler = serverless(app);
