@@ -1,0 +1,12 @@
+{
+  
+  "clientId": "zps_7PSMlmeNbpVdeQfi5g==",
+  "clientKey": "xGW0T-wp27AT6ye6gARikAtHwpAttJw6Wo0qjezCWqrRHVjvM66YCNLRhD6WfNStA0NfJoke67kJELULzCIQTg==",
+  
+  "port": 3446,
+
+  "https": false,
+  "sslKeyFile": "server.key",
+  "sslCrtFile": "server.crt"  
+
+}
