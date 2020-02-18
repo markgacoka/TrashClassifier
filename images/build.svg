@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg14"
+   version="1.1"
+   height="20"
+   width="88">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <g
+     style="shape-rendering:crispEdges"
+     id="g6">
+    <path
+       style="fill:#555555"
+       id="path2"
+       d="M 0,0 H 37 V 20 H 0 Z" />
+    <path
+       style="fill:#44cc11"
+       id="path4"
+       d="M 37,0 H 88 V 20 H 37 Z" />
+  </g>
+  <g
+     style="font-size:110px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif;text-anchor:middle;fill:#ffffff"
+     id="g12"
+     font-size="110">
+    <text
+       lengthAdjust="spacing"
+       id="text8"
+       textLength="270"
+       transform="scale(0.1)"
+       y="140"
+       x="195">build</text>
+    <text
+       lengthAdjust="spacing"
+       id="text10"
+       textLength="410"
+       transform="scale(0.1)"
+       y="140"
+       x="615">passing</text>
+  </g>
+</svg>
