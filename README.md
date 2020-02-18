@@ -14,7 +14,7 @@ A web-app that classifies your trash to its appropriate category and provides yo
   
 </div>
 
-[!Features[](https://github.com/markgacoka/TrashClassifier/blob/master/images/features.png)](http://trashier.appspot.com/)
+[![Features](https://github.com/markgacoka/TrashClassifier/blob/master/images/features.png)](http://trashier.appspot.com/)
 
 ## Getting Started
 
@@ -30,7 +30,8 @@ What things you need to install the software and how to install them
 
 To install the files to your computer, use git to clone the repository
 
-[Tutorial Video](https://github.com/markgacoka/TrashClassifier/blob/master/images/git-clone.gif)
+[![Tutorial Video](https://github.com/markgacoka/TrashClassifier/blob/master/images/git-clone.gif)]
+
 
 #### For Windows
 Download [Git for Windows](https://gitforwindows.org/) if you don't have one already.
@@ -114,5 +115,5 @@ To see Trung's version of the project during the hackathon, [click here](https:/
 * TreeHacks Judges for the feedback on the code and the overall project.
 * TreeHacks mentors for helping us when stuck.
 
-Submitted to [!TreeHacks 2020](https://devpost.com/software/trashier) at Stanford.
+Submitted to [TreeHacks 2020](https://devpost.com/software/trashier) at Stanford.
 
