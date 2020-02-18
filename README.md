@@ -115,6 +115,7 @@ To see Trung's version of the project during the hackathon, [click here](https:/
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - **[Creative Commons Attribution 3.0 License] - (CC BY 3.0) (https://colorlib.com/wp/template/imagine/)**
