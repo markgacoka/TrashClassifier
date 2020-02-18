@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg40"
+   version="1.1"
+   height="20"
+   width="98">
+  <metadata
+     id="metadata44">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.5491933,0.64549722)"
+       y2="30.983867"
+       x2="15.491933"
+       y1="0"
+       x1="15.491933"
+       id="workflow-fill">
+      <stop
+         id="stop2"
+         offset="0%"
+         stop-color="#444D56" />
+      <stop
+         id="stop4"
+         offset="100%"
+         stop-color="#24292E" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.5811388,0.63245553)"
+       y2="31.622777"
+       x2="15.811388"
+       y1="0"
+       x1="15.811388"
+       id="state-fill">
+      <stop
+         id="stop7"
+         offset="0%"
+         stop-color="#34D058" />
+      <stop
+         id="stop9"
+         offset="100%"
+         stop-color="#28A745" />
+    </linearGradient>
+  </defs>
+  <g
+     style="fill:none;fill-rule:evenodd"
+     id="g38">
+    <g
+       style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif"
+       id="g23"
+       font-size="11">
+      <path
+         style="fill:url(#workflow-fill);fill-rule:nonzero"
+         d="M 0,3 C 0,1.3431 1.3552,0 3.027027,0 H 48 V 20 H 3.027027 C 1.3552,20 0,18.6569 0,17 Z"
+         id="workflow-bg" />
+      <text
+         style="fill:#010101;fill-opacity:0.3"
+         id="text17">
+        <tspan
+           id="tspan15"
+           y="15"
+           x="22.198198">test</tspan>
+      </text>
+      <text
+         style="fill:#ffffff"
+         id="text21">
+        <tspan
+           id="tspan19"
+           y="14"
+           x="22.198198">test</tspan>
+      </text>
+    </g>
+    <g
+       style="font-size:11px;font-family:'DejaVu Sans', Verdana, Geneva, sans-serif"
+       id="g34"
+       font-size="11"
+       transform="translate(48)">
+      <path
+         style="fill:url(#state-fill);fill-rule:nonzero"
+         id="state-bg"
+         d="M 0,0 H 46.939 C 48.629,0 50,1.343 50,3 v 14 c 0,1.657 -1.37,3 -3.061,3 H 0 Z" />
+      <text
+         style="fill:#010101;fill-opacity:0.3"
+         id="text28">
+        <tspan
+           id="tspan26"
+           y="15"
+           x="4">passing</tspan>
+      </text>
+      <text
+         style="fill:#ffffff"
+         id="text32">
+        <tspan
+           id="tspan30"
+           y="14"
+           x="4">passing</tspan>
+      </text>
+    </g>
+    <path
+       style="fill:#959da5"
+       id="path36"
+       d="M 11,3 C 7.132,3 4,6.132 4,10 a 6.996,6.996 0 0 0 4.786,6.641 c 0.35,0.062 0.482,-0.148 0.482,-0.332 0,-0.166 -0.01,-0.718 -0.01,-1.304 C 7.5,15.329 7.045,14.576 6.905,14.183 6.826,13.981 6.485,13.36 6.188,13.193 5.943,13.063 5.593,12.739 6.178,12.73 c 0.552,-0.009 0.946,0.508 1.077,0.718 0.63,1.058 1.636,0.76 2.039,0.577 C 9.355,13.57 9.539,13.264 9.74,13.089 8.183,12.914 6.555,12.31 6.555,9.633 6.555,8.871 6.826,8.241 7.273,7.751 7.203,7.576 6.958,6.859 7.343,5.896 c 0,0 0.586,-0.183 1.925,0.718 a 6.5,6.5 0 0 1 1.75,-0.236 6.5,6.5 0 0 1 1.75,0.236 c 1.338,-0.91 1.925,-0.718 1.925,-0.718 0.385,0.963 0.14,1.68 0.07,1.855 0.446,0.49 0.717,1.112 0.717,1.882 0,2.686 -1.636,3.28 -3.194,3.456 0.254,0.219 0.473,0.639 0.473,1.295 0,0.936 -0.009,1.689 -0.009,1.925 0,0.184 0.131,0.402 0.481,0.332 A 7.011,7.011 0 0 0 18,10 C 18,6.133 14.867,3 11,3 Z" />
+  </g>
+</svg>
