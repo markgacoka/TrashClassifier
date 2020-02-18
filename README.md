@@ -6,12 +6,13 @@
 
 <h1 align="center">Trash Classifier</h1>
 <div align="center">
-A web-app that classifies your trash to its appropriate category and provides you with information on proper waste disposal. Written in NodeJS, HTML, CSS and Javascript.<br/>
-  
-[![Testing](https://github.com/markgacoka/TrashClassifier/blob/master/images/badge.svg)](https://github.com/markgacoka/TrashClassifier/issues)
-[![Build Passing](https://github.com/markgacoka/TrashClassifier/blob/master/images/build.svg)](https://trashier.appspot.com)
-[![NPM downloads](https://github.com/markgacoka/TrashClassifier/blob/master/images/npm.svg)](https://docs.npmjs.com/)
-  
+A web-app that classifies your trash to its appropriate category and provides you with information on proper waste disposal. Written in NodeJS, HTML, CSS and Javascript. 
+
+  <div align="center">
+    [![Testing](https://github.com/markgacoka/TrashClassifier/blob/master/images/badge.svg)](https://github.com/markgacoka/TrashClassifier/issues)
+    [![Build Passing](https://github.com/markgacoka/TrashClassifier/blob/master/images/build.svg)](https://trashier.appspot.com)
+    [![NPM downloads](https://github.com/markgacoka/TrashClassifier/blob/master/images/npm.svg)](https://docs.npmjs.com/)
+  </div>
 </div>
 
 [![Features](https://github.com/markgacoka/TrashClassifier/blob/master/images/features.png)](http://trashier.appspot.com/)
@@ -114,11 +115,11 @@ To see Trung's version of the project during the hackathon, [click here](https:/
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- **[Creative Commons Attribution 3.0 License] - (CC BY 3.0) (https://colorlib.com/wp/template/imagine/)**
+- **[Creative Commons Attribution 3.0 License - (CC BY 3.0)](https://colorlib.com/wp/template/imagine/)**
 
 ## Acknowledgments
 * TreeHacks Judges for the feedback on the code and the overall project.
