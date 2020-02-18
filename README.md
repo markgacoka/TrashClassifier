@@ -12,25 +12,26 @@ A web-app that classifies your trash to its appropriate category and provides yo
 [![Build Passing](https://github.com/markgacoka/TrashClassifier/blob/master/images/build.svg)](https://trashier.appspot.com)
 [![NPM downloads](https://github.com/markgacoka/TrashClassifier/blob/master/images/npm.svg)](https://docs.npmjs.com/)
   
-</div>
+</div><br/>
 
 [![Features](https://github.com/markgacoka/TrashClassifier/blob/master/images/features.png)](http://trashier.appspot.com/)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. You can also check out the website [here](http://trashier.appspot.com/).
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 * npm
 * git
+* express-js
 
 ### Installing
 
 To install the files to your computer, use git to clone the repository
 
-[![Tutorial Video](https://github.com/markgacoka/TrashClassifier/blob/master/images/git-clone.gif)]
+[Tutorial Video](https://github.com/markgacoka/TrashClassifier/blob/master/images/git-clone.gif)
 
 
 #### For Windows
@@ -40,6 +41,7 @@ Download [Git for Windows](https://gitforwindows.org/) if you don't have one alr
 git --version
 git config --global user.name "YOUR-NAME"
 git config --global user.email "YOUR-EMAIL"
+cd Desktop/
 git clone https://github.com/markgacoka/TrashClassifier.git
 ```
 
@@ -51,32 +53,38 @@ git --version
 git config --global user.name "YOUR-NAME"
 git config --global user.email "YOUR-EMAIL"
 brew install git
+mkdir TrashClassifier/
 git clone https://github.com/markgacoka/TrashClassifier
 ```
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Once downloaded to your local machine, you can go into the directory and test out the index file on your browser.
 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
+cd TrashClassifier/
+index.html
 ```
 
 ## Deployment
 
-To deploy the code on your local machine, you need to use a nodeJS server.
+However, the website is hosted by a nodeJS server and to do this you need to install npm.
+1. Check if a nodeJS and npm are installed
+
+```
+node -v
+npm -v
+```
+
+2. Install the latest version of npm and install expressJS using npm
+```
+npm install npm@latest -g
+npm init
+npm install express --save
+node server.js
+```
+
+[Node Server](https://github.com/markgacoka/TrashClassifier/blob/master/images/node-server.gif)
 
 ## Built With
 
