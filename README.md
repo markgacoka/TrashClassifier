@@ -18,7 +18,7 @@ A web-app that classifies your trash to its appropriate category and provides yo
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on localhost. You can also check out the website [here](http://trashier.appspot.com/).
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on localhost. You can also check out the website [here](http://trashier.appspot.com/). If that does not work, you can check the layout without API calls to Houndify API [here](https://treehacks.netlify.com/).
 
 ### Prerequisites
 
