@@ -6,23 +6,23 @@
 
 <h1 align="center">Trash Classifier</h1>
 <div align="center">
-A web-app that classifies your trash to its appropriate category and provides you with information on proper waste disposal. Written in NodeJS, HTML, CSS and Javascript.
+A web-app that classifies your trash to its appropriate category and provides you with information on proper waste disposal. Written in NodeJS, HTML, CSS and Javascript.<br/>
   
 [![Testing](https://github.com/markgacoka/TrashClassifier/blob/master/images/badge.svg)](https://github.com/markgacoka/TrashClassifier/issues)
 [![Build Passing](https://github.com/markgacoka/TrashClassifier/blob/master/images/build.svg)](https://trashier.appspot.com)
 [![NPM downloads](https://github.com/markgacoka/TrashClassifier/blob/master/images/npm.svg)](https://docs.npmjs.com/)
   
-</div><br/>
+</div>
 
 [![Features](https://github.com/markgacoka/TrashClassifier/blob/master/images/features.png)](http://trashier.appspot.com/)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. You can also check out the website [here](http://trashier.appspot.com/).
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on localhost. You can also check out the website [here](http://trashier.appspot.com/).
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them:
 * npm
 * git
 * express-js
@@ -31,7 +31,7 @@ What things you need to install the software and how to install them
 
 To install the files to your computer, use git to clone the repository
 
-[Tutorial Video](https://github.com/markgacoka/TrashClassifier/blob/master/images/git-clone.gif)
+[![Tutorial Video](https://github.com/markgacoka/TrashClassifier/blob/master/images/git-clone.gif)](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
 
 #### For Windows
@@ -84,7 +84,7 @@ npm install express --save
 node server.js
 ```
 
-[Node Server](https://github.com/markgacoka/TrashClassifier/blob/master/images/node-server.gif)
+[![Node Server](https://github.com/markgacoka/TrashClassifier/blob/master/images/node-server.gif)](https://deploybot.com/blog/guest-post-how-to-set-up-and-deploy-nodejs-express-application-for-production)
 
 ## Built With
 
@@ -96,8 +96,8 @@ node server.js
 
 ## Versioning
 
-This is the alpha version for the project. V 1.0.0
-To see Trung's version of the project during the hackathon, [click here](https://treehacks-trashier.appspot.com/)
+This is the alpha version for the project. V 1.0.0.
+To see Trung's version of the project during the hackathon, [click here](https://treehacks-trashier.appspot.com/).
 
 ## Authors
 <table>
@@ -109,7 +109,7 @@ To see Trung's version of the project during the hackathon, [click here](https:/
 
 <div>
   <h2>Safe Path</h2>
-  <p>A web app that displays the shortest safe path between two points in a map. Created using Django and Javascript</p>
+  <p>A web app that displays the shortest safe path between two points in a map. Created using Django and Javascript.</p>
 </div>
 
 ## License
