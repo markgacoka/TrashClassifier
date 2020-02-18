@@ -8,11 +8,11 @@
 <div align="center">
 A web-app that classifies your trash to its appropriate category and provides you with information on proper waste disposal. Written in NodeJS, HTML, CSS and Javascript. 
 
-  <div align="center">
-    [![Testing](https://github.com/markgacoka/TrashClassifier/blob/master/images/badge.svg)](https://github.com/markgacoka/TrashClassifier/issues)
-    [![Build Passing](https://github.com/markgacoka/TrashClassifier/blob/master/images/build.svg)](https://trashier.appspot.com)
-    [![NPM downloads](https://github.com/markgacoka/TrashClassifier/blob/master/images/npm.svg)](https://docs.npmjs.com/)
-  </div>
+<div>
+[![Testing](https://github.com/markgacoka/TrashClassifier/blob/master/images/badge.svg)](https://github.com/markgacoka/TrashClassifier/issues)
+[![Build Passing](https://github.com/markgacoka/TrashClassifier/blob/master/images/build.svg)](https://trashier.appspot.com)
+[![NPM downloads](https://github.com/markgacoka/TrashClassifier/blob/master/images/npm.svg)](https://docs.npmjs.com/)
+</div>
 </div>
 
 [![Features](https://github.com/markgacoka/TrashClassifier/blob/master/images/features.png)](http://trashier.appspot.com/)
