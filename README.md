@@ -84,6 +84,11 @@ npm install express --save
 node server.js
 ```
 
+## Demo
+
+[![Classification](https://raw.githubusercontent.com/markgacoka/TrashClassifier/master/images/paper.png)](https://raw.githubusercontent.com/markgacoka/TrashClassifier/master/images/paper.png)
+
+
 [![Node Server](https://github.com/markgacoka/TrashClassifier/blob/master/images/node-server.gif)](https://deploybot.com/blog/guest-post-how-to-set-up-and-deploy-nodejs-express-application-for-production)
 
 ## Built With
