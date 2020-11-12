@@ -112,11 +112,6 @@ To see Trung's version of the project during the hackathon, [click here](https:/
   </tr>
 </table>
 
-<div>
-  <h2>Safe Path</h2>
-  <p>A web app that displays the shortest safe path between two points in a map. Created using Django and Javascript.</p>
-</div>
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
